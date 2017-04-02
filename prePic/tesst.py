@@ -1,8 +1,11 @@
 # coding=utf-8
-from PIL import Image
-import numpy as np
-from globalFacts import *
 import  time
+
+import numpy as np
+from PIL import Image
+
+from conf.globalFacts import *
+
 
 # import matplotlib.pyplot as plt
 
