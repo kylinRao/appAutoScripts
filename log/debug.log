@@ -1,0 +1,166 @@
+2020-04-29 21:29:54,164 INFO ------start level fight tasks !!
+2020-04-29 21:30:09,168 INFO ------check if there is a updating page!!
+2020-04-29 21:30:21,154 INFO ------wait for 10s to go through a game video
+2020-04-29 21:30:26,410 INFO ------check if there is a notice page!!
+2020-04-29 21:30:43,690 INFO ------wait for 11s and click 640,540 to click entry of the game!!
+2020-04-29 21:30:54,917 INFO ------wait for 25s and click 640,540 to go through 4 role photo
+2020-04-29 21:31:26,082 INFO -----sleep 18s, and check for notice!!at tingyuan !!
+2020-04-29 21:31:50,700 INFO -----get close button at nox,noy !!
+2020-04-29 21:31:50,700 INFO ------sleep 10s and we entered tingyuan and click search entry!!----
+2020-04-29 21:32:00,703 INFO ------click search button at 678,144 
+2020-04-29 21:32:05,895 INFO ------enter fight level  at 1152,360 
+2020-04-29 21:32:12,154 INFO ------click level fight entry button at 960,504 
+2020-04-29 21:32:37,434 INFO ------no sence is found in preset sences ,return otherSence for default!!!
+2020-04-29 21:32:37,434 INFO ------now sence is otherSence
+2020-04-29 21:32:37,434 INFO ------get fight level  at 1152,360 
+2020-04-29 21:32:43,625 INFO ------click level fight entry button at 960,504 
+2020-04-29 21:33:08,167 INFO ------no sence is found in preset sences ,return otherSence for default!!!
+2020-04-29 21:33:08,167 INFO ------now sence is otherSence
+2020-04-29 21:33:08,167 INFO ------get fight level  at 1152,360 
+2020-04-29 21:33:14,348 INFO ------click level fight entry button at 960,504 
+2020-04-29 21:33:25,026 INFO ------found a matched position 51,60 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenXuanZePic.png,now exit  get_sence() 
+2020-04-29 21:33:25,026 INFO ------now sence is SenceTanSuoFuBenXuanZe
+2020-04-29 21:33:31,062 INFO ------find an small demo,at 1171,349
+2020-04-29 21:33:31,062 INFO -----five points contain 1171,349
+2020-04-29 21:33:31,062 INFO -----five points contain 1107,349
+2020-04-29 21:33:31,062 INFO -----five points contain 1235,349
+2020-04-29 21:33:31,062 INFO -----five points contain 1171,313
+2020-04-29 21:33:31,062 INFO -----five points contain 1171,385
+2020-04-29 21:33:38,516 INFO ------now count=3，click fight begin button  at 1152,576!! 
+2020-04-29 21:33:55,226 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2020-04-29 21:33:55,226 INFO ------now sence is SenceTanSuoFuBenFighting
+2020-04-29 21:34:03,720 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2020-04-29 21:34:03,720 INFO ------now sence is SenceTanSuoFuBenFighting
+2020-04-29 21:34:11,042 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2020-04-29 21:34:11,042 INFO ------now sence is SenceTanSuoFuBenFighting
+2020-04-29 21:34:19,364 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2020-04-29 21:34:19,365 INFO ------now sence is SenceTanSuoFuBenFighting
+2020-04-29 21:34:28,005 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2020-04-29 21:34:28,005 INFO ------now sence is SenceTanSuoFuBenFighting
+2020-04-29 21:34:40,990 INFO ------no sence is found in preset sences ,return otherSence for default!!!
+2020-04-29 21:34:40,990 INFO ------now sence is otherSence
+2020-04-29 21:34:40,990 INFO ------get fight level  at 1152,360 
+2020-04-29 21:34:47,145 INFO ------click level fight entry button at 960,504 
+2020-04-29 21:35:00,622 INFO ------found a matched position 645,568 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagVictoryDaMoPic.png,now exit  get_sence() 
+2020-04-29 21:35:00,624 INFO ------now sence is SenceVictoryDaMo
+2020-04-29 21:35:00,624 INFO ------fight ends,receive your rewards!damo----
+2017-04-29 21:35:12,845 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:35:12,845 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:35:23,595 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:35:23,595 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:35:32,937 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:35:32,937 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:35:41,519 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:35:41,519 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:35:49,917 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:35:49,917 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:36:03,496 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:36:03,496 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:36:15,513 INFO ------no sence is found in preset sences ,return otherSence for default!!!
+2017-04-29 21:36:15,513 INFO ------now sence is otherSence
+2017-04-29 21:36:15,513 INFO ------get fight level  at 1152,360 
+2017-04-29 21:36:21,690 INFO ------click level fight entry button at 960,504 
+2017-04-29 21:36:31,558 INFO ------found a matched position 51,60 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenXuanZePic.png,now exit  get_sence() 
+2017-04-29 21:36:31,558 INFO ------now sence is SenceTanSuoFuBenXuanZe
+2017-04-29 21:36:38,026 INFO ------find an small demo,at 990,404
+2017-04-29 21:36:38,028 INFO -----five points contain 990,404
+2017-04-29 21:36:38,028 INFO -----five points contain 926,404
+2017-04-29 21:36:38,028 INFO -----five points contain 1054,404
+2017-04-29 21:36:38,028 INFO -----five points contain 990,368
+2017-04-29 21:36:38,028 INFO -----five points contain 990,440
+2017-04-29 21:36:43,628 INFO ------now count=3，click fight begin button  at 1152,576!! 
+2017-04-29 21:37:00,132 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:37:00,132 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:37:08,895 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:37:08,897 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:37:17,790 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:37:17,790 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:37:26,266 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:37:26,266 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:37:33,598 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:37:33,598 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:37:44,138 INFO ------no sence is found in preset sences ,return otherSence for default!!!
+2017-04-29 21:37:44,138 INFO ------now sence is otherSence
+2017-04-29 21:37:44,138 INFO ------get fight level  at 1152,360 
+2017-04-29 21:37:50,276 INFO ------click level fight entry button at 960,504 
+2017-04-29 21:38:00,651 INFO ------found a matched position 51,60 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenXuanZePic.png,now exit  get_sence() 
+2017-04-29 21:38:00,651 INFO ------now sence is SenceTanSuoFuBenXuanZe
+2017-04-29 21:38:11,543 INFO ------step right forward
+2017-04-29 21:38:20,671 INFO ------found a matched position 51,60 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenXuanZePic.png,now exit  get_sence() 
+2017-04-29 21:38:20,671 INFO ------now sence is SenceTanSuoFuBenXuanZe
+2017-04-29 21:38:27,398 INFO ------find an small demo,at 641,334
+2017-04-29 21:38:27,398 INFO -----five points contain 641,334
+2017-04-29 21:38:27,398 INFO -----five points contain 577,334
+2017-04-29 21:38:27,398 INFO -----five points contain 705,334
+2017-04-29 21:38:27,398 INFO -----five points contain 641,298
+2017-04-29 21:38:27,398 INFO -----five points contain 641,370
+2017-04-29 21:38:29,138 INFO ------now count=3，click fight begin button  at 1152,576!! 
+2017-04-29 21:38:43,148 INFO ------found a matched position 51,60 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenXuanZePic.png,now exit  get_sence() 
+2017-04-29 21:38:43,150 INFO ------now sence is SenceTanSuoFuBenXuanZe
+2017-04-29 21:38:50,484 INFO ------find an small demo,at 386,366
+2017-04-29 21:38:50,484 INFO -----five points contain 386,366
+2017-04-29 21:38:50,484 INFO -----five points contain 322,366
+2017-04-29 21:38:50,484 INFO -----five points contain 450,366
+2017-04-29 21:38:50,486 INFO -----five points contain 386,330
+2017-04-29 21:38:50,486 INFO -----five points contain 386,402
+2017-04-29 21:38:56,750 INFO ------now count=3，click fight begin button  at 1152,576!! 
+2017-04-29 21:39:14,489 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:39:14,489 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:39:23,951 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:39:23,951 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:39:32,904 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:39:32,904 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:39:46,118 INFO ------no sence is found in preset sences ,return otherSence for default!!!
+2017-04-29 21:39:46,118 INFO ------now sence is otherSence
+2017-04-29 21:39:46,118 INFO ------get fight level  at 1152,360 
+2017-04-29 21:39:52,292 INFO ------click level fight entry button at 960,504 
+2017-04-29 21:40:05,874 INFO ------found a matched position 645,568 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagVictoryDaMoPic.png,now exit  get_sence() 
+2017-04-29 21:40:05,874 INFO ------now sence is SenceVictoryDaMo
+2017-04-29 21:40:05,875 INFO ------fight ends,receive your rewards!damo----
+2017-04-29 21:40:15,167 INFO ------found a matched position 51,60 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenXuanZePic.png,now exit  get_sence() 
+2017-04-29 21:40:15,167 INFO ------now sence is SenceTanSuoFuBenXuanZe
+2017-04-29 21:40:20,467 INFO ------find an small demo,at 1024,421
+2017-04-29 21:40:20,467 INFO -----five points contain 1024,421
+2017-04-29 21:40:20,467 INFO -----five points contain 960,421
+2017-04-29 21:40:20,467 INFO -----five points contain 1088,421
+2017-04-29 21:40:20,469 INFO -----five points contain 1024,385
+2017-04-29 21:40:20,470 INFO -----five points contain 1024,457
+2017-04-29 21:40:26,055 INFO ------now count=3，click fight begin button  at 1152,576!! 
+2017-04-29 21:40:42,865 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:40:42,865 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:40:53,874 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:40:53,874 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:41:02,150 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:41:02,150 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:41:12,739 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:41:12,739 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:41:24,799 INFO ------no sence is found in preset sences ,return otherSence for default!!!
+2017-04-29 21:41:24,801 INFO ------now sence is otherSence
+2017-04-29 21:41:24,801 INFO ------get fight level  at 1152,360 
+2017-04-29 21:41:30,994 INFO ------click level fight entry button at 960,504 
+2017-04-29 21:41:53,061 INFO ------no sence is found in preset sences ,return otherSence for default!!!
+2017-04-29 21:41:53,061 INFO ------now sence is otherSence
+2017-04-29 21:41:53,061 INFO ------get fight level  at 1152,360 
+2017-04-29 21:41:59,249 INFO ------click level fight entry button at 960,504 
+2017-04-29 21:42:12,920 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:42:12,920 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:42:23,082 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:42:23,082 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:42:33,213 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:42:33,213 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:42:42,806 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:42:42,806 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:42:51,628 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:42:51,628 INFO ------now sence is SenceTanSuoFuBenFighting
+2017-04-29 21:43:00,443 INFO ------found a matched position 562,211 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagSenceVictoryPic.png,now exit  get_sence() 
+2017-04-29 21:43:00,444 INFO ------now sence is SenceVictory
+2017-04-29 21:43:00,444 INFO ------fight ends,receive your rewards!----
+2017-04-29 21:43:13,017 INFO ------found a matched position 645,568 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagVictoryDaMoPic.png,now exit  get_sence() 
+2017-04-29 21:43:13,019 INFO ------now sence is SenceVictoryDaMo
+2017-04-29 21:43:13,019 INFO ------fight ends,receive your rewards!damo----
+2017-04-29 21:43:22,055 INFO ------found a matched position 51,60 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenXuanZePic.png,now exit  get_sence() 
+2017-04-29 21:43:22,055 INFO ------now sence is SenceTanSuoFuBenXuanZe
+2017-04-29 21:43:24,519 INFO ------find boss,at 655,228
+2017-04-29 21:43:32,681 INFO ------step right forward
+2017-04-29 21:43:42,967 INFO ------found a matched position 107,30 ,sencePic is screenshot.png,flagPic is prePic/SenceFlagTanSuoFuBenFightingPic.png,now exit  get_sence() 
+2017-04-29 21:43:42,967 INFO ------now sence is SenceTanSuoFuBenFighting
